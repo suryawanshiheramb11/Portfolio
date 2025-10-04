@@ -36,6 +36,7 @@ I'm a passionate **Computer Science student at Scaler School of Technology & IIT
 
 **Tech Stack:** GoDot , Unity
 **Highlights:** 
+
 .⚔️ Top-down combat (sword, bow, bombs, etc.)
 
 •⁠ ⁠🧩 Puzzles & interactables (statue movement, switches, gates)
