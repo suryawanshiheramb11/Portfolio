@@ -37,11 +37,17 @@ I'm a passionate **Computer Science student at Scaler School of Technology & IIT
 **Tech Stack:** GoDot , Unity
 **Highlights:** 
 .⚔️ Top-down combat (sword, bow, bombs, etc.)
+
 •⁠ ⁠🧩 Puzzles & interactables (statue movement, switches, gates)
+
 •⁠ ⁠👾 Enemies & Bosses (slimes, goblins, Malakar the witch)
+
 •⁠ ⁠❤️ 3-life mechanic tied into the story
+
 •⁠ ⁠📦 Items, inventory, pickups
+
 •⁠ ⁠🏰 Tilemap-based levels (villages, ruins, dungeons)
+
 •⁠ ⁠🎨 Retro pixel-art style with smooth animations
 
 ⭐ **If you like my work, consider giving this repo a star!**  
