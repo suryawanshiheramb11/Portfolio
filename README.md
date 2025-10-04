@@ -10,7 +10,7 @@ I'm a passionate **Computer Science student at Scaler School of Technology & IIT
 - 🎓 **Student** — B.S. in Computer Science (IIT Madras) + Scaler School of Technology  
 - 💡 **Interests** — Data Structures, Algorithms, Web Development, and AI  
 - 🧩 **Mindset** — Logical, curious, and focused on building impactful projects  
-- 🌍 **Goal** — To become a high-impact software engineer and earn ₹2L+/month as a fresher  
+- 🌍 **Goal** — To become a high-impact software engineer with great problem solving skills
 - 💬 **Ask me about** — Java, Python, DSA, Frontend/Backend development, and project building  
 
 ---
@@ -30,25 +30,18 @@ I'm a passionate **Computer Science student at Scaler School of Technology & IIT
 
 ## 🧩 Featured Projects
 
-### 🕹️ [GameHub — Indie Game Showcase](https://github.com/username/gamehub)
-> A full-stack platform where indie developers can showcase and share their games.
+### 🕹️ [GameHub — Flute Of Eternia]([https://github.com/username/gamehub](https://github.com/suryawanshiheramb11/Game-Devlopment))
+> A 🎮 Flute of Eternia — A retro 2D action-adventure RPG built in Godot 4.
+>  Embark on a heroic quest to reclaim the divine flute from the witch Malakar, battling monsters, solving puzzles, and restoring peace to Valoria through light and shadow.
 
-**Tech Stack:** React.js, Node.js, Express, MongoDB  
-**Highlights:** Authentication, real-time updates, cloud image storage  
-
----
-
-### 📊 [AlgoVisualizer — Algorithm Simulator](https://github.com/username/algovisualizer)
-> A visual learning tool for sorting and graph algorithms.
-
-**Tech Stack:** HTML, CSS, JavaScript  
-**Highlights:** Visualizes bubble, merge, quick sorts, and BFS/DFS  
-
----
-
-### 🧠 [AI ChatBot](https://github.com/username/ai-chatbot)
-> A simple conversational chatbot built using OpenAI API and Node.js.
-
-**Tech Stack:** Node.js, Express, OpenAI API  
+**Tech Stack:** GoDot , Unity
+**Highlights:** 
+.⚔️ Top-down combat (sword, bow, bombs, etc.)
+•⁠ ⁠🧩 Puzzles & interactables (statue movement, switches, gates)
+•⁠ ⁠👾 Enemies & Bosses (slimes, goblins, Malakar the witch)
+•⁠ ⁠❤️ 3-life mechanic tied into the story
+•⁠ ⁠📦 Items, inventory, pickups
+•⁠ ⁠🏰 Tilemap-based levels (villages, ruins, dungeons)
+•⁠ ⁠🎨 Retro pixel-art style with smooth animations
 
 ⭐ **If you like my work, consider giving this repo a star!**  
